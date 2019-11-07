@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/drink/drink",
+    "pages/toyou/toyou",
+    "pages/chooseLib/chooseLib"   
+  ],
+  "tabBar": {
+    "position": "bottom",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "/images/home-unselected.jpg",
+        "selectedIconPath": "/images/home-selected.jpg"
+      },
+      {
+        "pagePath": "pages/drink/drink",
+        "text": "干一碗！",
+        "iconPath": "/images/drink-unselected.jpg",
+        "selectedIconPath": "/images/drink-selected.jpg"
+      },
+      {
+        "pagePath": "pages/toyou/toyou",
+        "text": "盛一碗！",
+        "iconPath": "/images/dao-unselected.jpg",
+        "selectedIconPath": "/images/dao-selected.jpg"
+      }
+    ]
+  },
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "鸡汤有毒，与君共饮",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

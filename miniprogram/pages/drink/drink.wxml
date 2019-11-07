@@ -1,0 +1,4 @@
+<!--miniprogram/pages/drink/drink.wxml-->
+<view class="soap_content" bindtap="onTap">
+  <text>{{soap}}</text>
+</view>

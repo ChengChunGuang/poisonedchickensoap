@@ -1,0 +1,13 @@
+/* miniprogram/pages/drink/drink.wxss */
+.soap_content{
+  margin-top: 50rpx;
+  margin-left: 80rpx;
+  margin-right: 80rpx;
+  position: fixed;
+  height: 80%;
+  width: 80%;
+  display:flex;
+  flex-direction:column;
+  align-items:center;/*垂直居中*/
+  justify-content: center;/*水平居中*/
+}

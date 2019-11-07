@@ -1,0 +1,6 @@
+<!--miniprogram/pages/home/home.wxml-->
+
+<view class="soap_content" bindtap="onTap">
+  <!--image class="" src="../../image/PoisonedChickenSoap.jpg" mode="widthFix"></image-->
+  <text>{{soap}}</text>
+</view>

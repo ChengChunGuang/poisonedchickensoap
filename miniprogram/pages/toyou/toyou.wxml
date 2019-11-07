@@ -1,0 +1,4 @@
+<!--miniprogram/pages/toyou/toyou.wxml-->
+<view class="building">
+  <text>建设中......</text>
+</view>
